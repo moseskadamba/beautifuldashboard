@@ -1,0 +1,247 @@
+<resources>
+    <string name="app_name">Speechpad General Guidelines</string>
+    <string name="generalnotes"> \n 1. Transcripts should be clean copy with all instances of \"um\", \"ahh\", false starts, and stutters omitted.\n \n
+       2. A false start is an incomplete sentence where a speaker starts it and then stops and rephrases it.\n \n
+
+       3. Always use U.S. spelling unless otherwise specified in the special instructions.\n \n
+
+       4. Do not type descriptive tags or sound effects. e.g. [laughter], [cough], [doorbell rings].\n \n
+
+       5. Do not paraphrase or rewrite what is said.\n \n
+        6. Enter two spaces (two hard returns) between paragraphs and speaker changes.\n \n
+             Example:
+                  Jill: Hi, how are you? (enter)\n
+                     (enter)\n
+                   Krystal: Fine, I guess. How are you?\n \n
+
+7. SAVE YOUR WORK. Pressing the save button multiple times during work can save you from losing your work.\n \n
+
+8. Do not leave out conversations or other material unless specifically requested by the customer\'s job instructions.\n \n
+
+9. Promotional ads and commercials should be transcribed unless they are not relevant to the overall file. If in doubt, include the promotional ads and/or commercials.\n \n
+
+10. Replay difficult sections of audio while considering the context.\n \n
+
+11. Try using audio enhancers such as FXSound for PC or Boom 2 for Mac to reduce background noise. Express Scribe has special audio processes to reduce background noise and boost volume.\n \n
+
+12. We also highly recommend using headphones like these or in-ear buds like these. They can mean a world of difference for "poor quality" audios.\n \n
+
+13. You may start a sentence with a conjunction. e.g. And, But, Or, Yet, So, etc., if that sentence would be a run-on otherwise. Also, commas can be used after these conjunctions, depending on the context.\n \n
+
+14. When someone says \"hashtag,\" a pound sign should be used. #speechpad, #isapoundsign, #lookslikeasharp\n \n
+
+15. When a speaker provides his Instagram or Twitter handle, please add the at sign (@) prior to the name of the page or person. Ex. @speechpad\n \n
+
+16. Use Oxford commas: \"Would you like a pumpkin, a watermelon, or an apple?\" \"She has apples, bananas, and figs.\"\n \n
+
+17. Use all lowercase letters for websites URLs and email addresses. Type the website URL or email address as you would type it on the address bar or recipient section.\n \n
+
+        Example:\n \n
+        If the speaker spells out \"S-P-E-E-C-H-P-A-D-DOT-COM,\" type it as speechpad.com\n
+        If the speaker spells out \"S-U-P-P-O-R-T at speechpad.com,\" type it as support@speechpad.com.\n
+        If the speaker says, \"Speechpad.com, type it as speechpad.com.\"\n \n
+
+
+18. Break up paragraphs logically.\n \n
+19. Capitalize pronouns referring to God. No need to capitalize pronouns referring to Jesus and the Holy Spirit. \n \n
+20.	When the speaker says \"slash\" and it is used to connect alternatives or non-contrasting items, please use a forward slash (/) instead of spelling it out.\n \n
+    </string>
+
+    <string name="filler_words">Filler words such as \“like, you know, I mean,\” etc. must be included unless they are used three times or more per sentence and they are not necessary to the meaning of the sentence.\n \n
+    Examples of excessive use (all instances must be removed):\n\n
+
+\"Like, I\'m gonna, like, get my, like, hair done, like, tomorrow.\" \n
+\"Oh my gosh, like, I shouldn\'t, like, have, like, said that.\" \n \n
+
+
+Examples of non-excessive use (all should be left in):\n\n
+        \"Like, I mean, you know, I\'m going to get my hair done tomorrow.\" \n
+        \"I mean, you know, she said that she sort of works there.\" \n \n
+
+
+Fillers should have commas around them, as in the examples above. \n \n
+
+    </string>
+    <string name="speakernotes">
+        1. Do not use a speaker tag if there is only one speaker in the audio. Speaker tags should be used for speaker changes only.\n\n
+	    2. Never put speaker tags in all caps unless stated in the instructions.\n\n
+	    3. Use the speaker\'s first name as the speaker identification if their name is known. If the speaker has a title, use the title and last name when provided.\n\n
+            Examples: \n
+            Dr. Patrick:\n
+            Prof. Dumbledore:\n
+              Sen. Smith:\n
+               Sgt. Matthews:\n\n
+	    4. In focus group transcripts, identify the focus group leader as \"Facilitator:\" or \"Moderator:\" if you do not know their name.\n\n
+	    5. Use generic \"Man:\" or \"Woman:\" for unidentified speakers and number them if you can easily track their voice such as \"Man 1:\" \"Man 2:\"\n\n
+	    6. For any audio where it is difficult to track the individuals over the course of the file, use generic speaker tokens, \"Man:\" \"Woman:\" \"Male:\" or \"Female:\".\n\n
+	    7. Use only the following speaker identification formats, unless otherwise instructed to do so:\n\n
+
+           Interviewer: (You may number this if there is more than one interviewer)\n\n
+           Interviewee: (You may number this if there is more than one interviewee)\n\n
+           Man: or Woman: (You may number if there is more than one man or woman)\n\n
+           Male: or Female: (You may number if there is more than one male or female)\n\n
+           Facilitator: or Moderator: (For focus groups)\n\n
+           Instructor: (For training, lectures, instructional courses, etc.)\n\n
+	       You may be able to identify the interviewee\'s name from the file name. In an interview situation \"Interviewee:\" is always better than the generic tokens. Most of our audios are question and answer interviews so \"Interviewer:\" and \"Interviewee:\" are going to be the normal format unless their names are known.\n
+	       \"Together:\" may be used when speakers simultaneously say the same thing.\n\n
+
+
+           Example:\n\n
+
+
+           Together: Yay.\n\n
+
+
+    </string>
+    <string name="inaudible_text">
+        1.	Use [inaudible 00:00:00] to indicate words or phrases you cannot hear or understand. Do not transcribe milliseconds unless the customer requests them. \n\n
+        2.	Transcribe what each person is saying anywhere simultaneous speech occurs if you can pick out what is being said, or use [crosstalk HH:MM:SS] if that section of the audio is unintelligible. Never use [SS].\n\n
+        3.	Use hyphenated, capitalized letters for spellouts and separate the spellout from the complete word with a comma.\n\n
+            Example:\n
+            Karen: His name was Bobby, B-O-B-B-Y.\n\n
+        4.	When names or words are given after a letter to ensure that the letter is heard correctly, transcribe this way: \"A,\" as in \"APPLE,\" \"B,\" as in \"BOY,\" etc.\n\n
+        5.	When a hyphenated name is the subject of a spell out, the words \"dash\", or \"hyphen\", should be typed out for clarity.\n\n
+            Example:\n
+            S-M-I-T-H-dash-J-O-N-E-S\n\n
+
+    </string>
+    <string name="utterance_text">
+        <b>Utterances</b>\n\n
+        Only the following utterances should be used, and only if the speaker is answering a question. Otherwise, they should be left out.\n\n
+
+
+        Affirmative: uh-huh, mm-hmm, yeah, yes, okay, right\n
+        Negative: uh-uh, hmm-mm, mm-mm, hun-uh, nuh-uh, nah\n\n
+        <b>Interjections</b>\n\n
+        1. Interjections such as okay, yeah, uh-huh, etc. that occur on their own should be left out if they are not answers to questions and are only interrupting the previous speaker.\n\n
+
+           Example:\n
+           Joey: I was walking down the road... \n
+           Mike: Uh-huh. \n
+           Joey: ...and saw a cat.\n
+           This should be:\n
+           Joey: I was walking down the road and saw a cat.\n\n
+	    2. We do not omit them in these cases.\n\n
+                        Example:\n
+                        Mike: Yeah, that was a good idea.\n
+                        Joey: I know, yeah, that was quite interesting to hear.\n\n
+
+
+    </string>
+
+    <string name="timestamp1">
+        <b>Timestamps:</b>\n\n
+        •	Do not add timestamps unless requested by the customer.\n
+        •   	Check the timestamp format requested. Most files will require this format: [HH:MM:SS].\n
+        •	Do not transcribe milliseconds unless the customer has specifically requested this in the job instructions. If requested, follow this format: [HH:MM:SS.ms]. We prefer you use the Insert Timestamp tool in our console when customers request milliseconds.\n
+        •	Refer to the Pauses and Silence and Lyrics and music files section on how to note [silence] and [music].\n\n
+        <b> Burned-in time codes </b>\n\n
+
+
+        •	Check if the video has burned in time codes. If so, the timestamps need to match the video time codes, including timestamps on inaudible tags, silence tags, music tags, etc. These jobs will need a starting timestamp.\n\n
+
+            Example:\n
+            This video starts at [14:59:24].\n
+        At [00:00:30], timestamp should be [14:59:54]. \n
+    </string>
+
+    <string name="timestamp2">
+        The transcript should look like this:\n\n
+
+        [14:59:24]\n
+        Today I\'m talking with Sean. I think you [14:59:54] were in your late 20s when you decided to pursue writing.\n\n
+        <b>Timestamping intervals</b>\n
+
+        •	Read the customer instructions regarding the selected timestamping interval when you accept the job.\n\n
+
+    </string>
+
+    <string name="timestamp3">
+        •	15, 30 and 60-second and 2-minute timestamps should be placed when they are heard.\n
+        Examples:\n
+        See Spot [00:00:15] run.\n
+        See Jane [00:00:30] go.\n
+        Today I\'m talking with Sean. I think you [00:01:00] were in your late 20s when you decided to pursue writing, is that right? [00:02:00]\n
+        •	Timestamps should be placed above the paragraph and above the speaker tag when the customer requests timestamps <b>for paragraphs</b>, or above the speaker tag only when the customer requests timestamps <b>for every speaker change</b>.\n
+        Examples:\n
+        [00:00:17]\n
+        Interviewer: Hello bloggers. Today I\'m talking with Sean. I think you were in your late 20s when you decided to pursue writing, is that right?\n
+        [00:01:02]\n
+        Sean: Actually 30s. Not my late 30s, I\'m in my late 30s now.\n\n
+        •	Timestamps should be placed at the beginning of each sentence, and before the speaker token, when the customer requests sentence timestamps.\n\n
+
+        Example:\n
+        [00:00:00] Marilyn: My name is Marilyn.\n\n
+        [00:00:10] Joe: And my name is Joe.\n\n
+
+        [00:00:12] Marilyn: And we just want to tell you a little bit more about the conference, September 21st through the 24th in 2017. [00:00:15] We are having the most exciting party you could ever imagine in any converging group of energies. [00:00:20] Well, basically it\'s about
+        bringing your vision to light. [00:00:25] Where would you like to be in five years? [00:00:30] Where would you like to be in one year?\n
+        [00:00:35] But it\'s a five-year thing.
+
+    </string>
+    <string name="validationerror">
+        •	Split point error - A transcript must not end with a timestamp.\n
+        •	Unpaired brackets - Each timestamp or silence/music tag should have open and closed brackets.\n\n
+            Ex.\n
+            [05:20:48\n
+            Interviewer: So, the first one was about environmentalists who think that nature is this miracle that can\'t be touched. If you could take us to that thought.\n
+            [05:20:59]\n
+            silence] \n
+            [05:21:17]\n\n
+        •	Check if any of your timestamps exceed the duration of the file or are out of place.\n
+        o	If the duration of the file is only 21:30, you cannot have a timestamp of [00:22:00].\n
+        o	An example of a timestamp that is out of place is [00:22:00] that comes before [00:21:15].\n
+
+    </string>
+    <string name="grammer">
+        •	Colons (:) should only be used when you are typing a list of items within the sentence or when following a speaker tag.\n
+        •	Semicolons (;) should not be used in your transcripts. It is better to break up sentences logically than to use a semicolon incorrectly.\n
+        •	Do not use exclamation marks. End the sentence with a period.\n\n
+
+        •	Verify all names and acronyms via a search engine, Wikipedia, dictionary, etc. If you\'re still unsure, check a dictionary. Examples of acronyms that do not have periods: NBA, CBS, FDA. \n
+        •	Single spacing after end punctuation.\n
+        •	You can install Grammarly for your browser for free. It helps with spelling and punctuation. No program will detect all of your mistakes so it\'s always a good idea to re-review your work before you submit it.\n
+        •	Here\'s a great resource for fine-tuning your grammar. They even have practice exercises.\n
+        •	Slang terms should be transcribed as spoken (e.g. gonna, wanna, shoulda, gotcha, get\'em, tell\'em, oughta, kinda, sorta).\n
+        •	\"Because\" should always be typed out. Never use \'cuz, \'coz, or \'cause.\n
+        •	\"All right\" should always be used. Never use \"alright.\"\n
+        •	\"Okay\" should always be used. Never use \"Ok, or OK.\"\n
+        •	The words \"internet\" and \"web\" should not be capitalized.\n
+        •	Abbreviate \"et cetera\" to \"etc.\" If it\'s used in the middle of a sentence, use both a period and a comma.\n\n
+
+
+            Example:\n
+            He referred to the list of goods etc., when he told...\n\n
+        •	Abbreviate \"id est\" to \"i.e.\"\n
+        •	Use an ellipsis, (three periods without spaces before or after), when there is an interruption in the sentence or if a speaker trails off and doesn\'t complete a sentence. This includes trailing questions as well.\n\n
+
+            Example:\n
+            Then we decided to go see Harry and that was...\n
+            Do you think he was there to...?\n\n
+
+        •	Use an ellipsis (...), when there is a change of thought in mid sentence.\n\n
+
+            Example:\n\n
+            He was going to...well, maybe not. (Note there are no spaces around or between the periods)\n
+            \"He was going to...well, maybe not.\" We would not capitalize the W in \"well\" because it\'s the same thought. If he said \"He was going to... Hey, get that camera out of my face.\" That\'s how the ellipsis should appear and the H in \"Hey\" should be capitalized because it\'s a completely different thought AND a new sentence.\n\n
+
+        •	[SP] should be used after the first instance of words, places, and names that you are not sure how to spell.\n
+        •	The general rule of thumb is that if the word is or could act as a heading, capitalize it.\n
+            o	If the speaker is talking about chapters, units, or exercises that are numerical, the titles should be capitalized e.g. Chapter 1. Note that these terms are followed by a number in numerical form, not a spelled-out number.\n\n
+            Example:\n
+            Which chapter did you like best? Everyone else preferred Chapter 2.\n\n
+
+
+       o	Don\'t capitalize page, paragraph, or line because they are not serving as a title.\n\n
+
+
+            Example:\n
+            Please open your books to page 45.\n
+            You\'ll find an example of that word in context in paragraph 2, line 4.\n
+            Did anyone notice the mistake on page 6 in the first paragraph?\n
+
+
+
+    </string>
+
+</resources>
